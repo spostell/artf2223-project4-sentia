@@ -86,6 +86,10 @@ h1, h2, h3{
      padding: 3px;
   }
 
+.logo a {
+      text-decoration: none;
+  }
+
   /* Source: https://css-tricks.com/almanac/properties/f/font-variant-numeric/ */
   .fraction {
     font-variant-numeric: diagonal-fractions;
